@@ -1,0 +1,7 @@
+name: CustomItems
+version: ${project.version}
+main: org.waqe.pl.customitems.CustomItems
+api-version: 1.13
+commands:
+  customitems:
+    aliases: [cui]
